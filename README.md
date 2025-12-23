@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Krish Agarwal<br><br>🎓 BE student in Information Science & Engineering at RVCE<br>💻 Tech enthusiast interested in Data Science Website Building and AI/ML<br>🚀 Building projects to learn, explore, and improve problem-solving<br><br>🌱 Currently learning C, Java, and JavaScript<br>🎯 Interested in software development, startups, and tech innovation
+👋 Hi, I’m Krish Agarwal<br><br>🎓 BE student in Information Science & Engineering at RVCE<br>💻 Tech enthusiast interested in Data Science, Website Building and AI/ML<br>🚀 Building projects to learn, explore, and improve problem-solving<br><br>🌱 Currently learning C, Java, and JavaScript<br>🎯 Interested in software development, startups, and tech innovation
 
 
 ## 🌐 Socials:
